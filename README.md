@@ -4,8 +4,8 @@ This repository contains a collection of important Vim shortcuts for use in Visu
 
 ## Contents
 
-- [Navigation Shortcuts]navigation.md
-- [Editing Shortcuts](shortcuts/editing.md)
+- Navigation Shortcuts
+- Editing Shortcuts
 - [Searching Shortcuts](shortcuts/searching.md)
 - [Visual Mode Shortcuts](shortcuts/visual-mode.md)
 - [File Operations Shortcuts](shortcuts/file-operations.md)
